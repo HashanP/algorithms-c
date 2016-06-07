@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 void print(int arr[], size_t len);
 int* selectionSort(int arr[], size_t len);
